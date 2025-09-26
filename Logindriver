@@ -272,6 +272,12 @@
         "Allowoffline": false
     },
     {
+        "device_id": "C76806518970eba1",
+        "key": "67678009",
+        "expirydate": "29-09-2025",
+        "Allowoffline": false
+    },
+    {
         "device_id": "device456",
         "key": "key67890",
         "expirydate": "15-06-2025",
